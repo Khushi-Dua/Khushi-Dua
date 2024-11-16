@@ -65,6 +65,6 @@ Feel free to check them out and contribute if you're interested! -->
 ## 📑 Education
 
 - **B.Tech in Computer Science & Engineering (AIML)**, Sharda University — 2023-Present
-- **Higher Secondary School (12th)** — [2022-2023]
+- **Higher Secondary School (12th)** ,Vishal Bharti Senior Secondary School— [2022-2023]
 
 
