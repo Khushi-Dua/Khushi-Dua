@@ -42,8 +42,8 @@ Feel free to check them out and contribute if you're interested! -->
 ## 📧 How to Reach Me
 
 - Email: [Khushi Dua](mailto:khushidua110036@gmail.com)
-- LinkedIn: [Khushi Dua](www.linkedin.com/in/khushi-dua-392084294)
-- Insta: [Khushi Dua](https://www.instagram.com/khushi_dua7/)
+- LinkedIn: [Khushi Dua](https://www.linkedin.com/in/khushi-dua-392084294/)
+- Instagram: [Khushi Dua](https://www.instagram.com/khushi_dua7/)
 
 ## 🧑‍💻 Skills & Technologies
 
