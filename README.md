@@ -1,7 +1,7 @@
 
 
 # Hi there!👋 I am Khushi Dua 
- A passionate and dedicated second-year B.Tech student pursuing **Computer Science Engineering (CSE)** with a specialization in **Artificial Intelligence and Machine Learning (AIML)** at **Sharda University**.Passionate about staying updated on emerging technologies , driven to leverage technology to solve real world problems and enhance user experiences
+ A passionate and dedicated third-year B.Tech student pursuing **Computer Science Engineering (CSE)** with a specialization in **Artificial Intelligence and Machine Learning (AIML)** at **Sharda University**.Passionate about staying updated on emerging technologies , driven to leverage technology to solve real world problems and enhance user experiences
 
 ## 🚀 About Me
 
