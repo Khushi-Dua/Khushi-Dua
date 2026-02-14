@@ -1,29 +1,70 @@
+<h1 align="center">Hi 👋, I'm Khushi Dua</h1>
+<h4 align="center">Building AI solutions for real-world impact 🚀</h4>
+
+<h3 align="center">BTech CSE (AI & ML) | Aspiring Data Scientist | Machine Learning & Deep Learning</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/khushi-dua7">
+    <img src="https://img.shields.io/badge/LinkedIn-Khushi%20Dua-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:khushidua110036@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/Khushi-Dua">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+##  About Me
+
+I am a Data Scientist in-training specializing in **time-series forecasting, anomaly detection, and deep learning systems**. I build end-to-end machine learning pipelines focused on predictive accuracy, optimization, and real-world impact.
+
+🔹 Experienced with large-scale datasets (12M+ records)  
+🔹 Focused on sustainability analytics & intelligent prediction systems  
+🔹 Passionate about solving real-world problems using AI-driven solutions  
+
+🎓 BTech CSE – Artificial Intelligence & Machine Learning  
+🏫 Sharda University | Expected Graduation: June 2027
+
+---
+##  Technical Skills
+
+### Programming & Libraries
+`Python` `SQL` `Pandas` `NumPy` `Scikit-learn` `TensorFlow` `Keras`
+
+### Machine Learning
+`Time Series Forecasting` `LSTM` `GRU` `ARIMA`
+`Regression` `Classification` `Clustering`
+`Feature Engineering` `Hyperparameter Tuning`
+`Model Evaluation` `Anomaly Detection`
+
+### Data Science & Tools
+`EDA` `Statistical Analysis` `Data Wrangling`
+`Power BI` `Excel` `Git` `GitHub`
+`Jupyter Notebook` `Google Colab` `Kaggle`
+
+---
+##  Featured Projects
+
+### ⚡ Electricity Consumption & Anomaly Detection
+- Built hybrid LSTM-GRU architecture on 12M+ records.
+- Achieved **70% RMSE reduction** over traditional models.
+- Implemented residual-based anomaly detection with **99.94% accuracy**.
+
+### 🌱 Green Core – Carbon Intelligence Dashboard
+- Developed carbon-aware forecasting models.
+- Enabled sustainability-driven deployment insights.
+- Achieved 85%+ prediction accuracy.
+
+### 🧠 Brain Tumor Detection Using Deep Learning
+- Designed CNN model for MRI classification.
+- Achieved **95.18% accuracy** and improved generalization.
+
+ 💡 All projects include complete data preprocessing, model evaluation, and performance comparison workflows.
 
 
-# Hi there!👋 I am Khushi Dua 
- A passionate and dedicated third-year B.Tech student pursuing **Computer Science Engineering (CSE)** with a specialization in **Artificial Intelligence and Machine Learning (AIML)** at **Sharda University**.Passionate about staying updated on emerging technologies , driven to leverage technology to solve real world problems and enhance user experiences
-
-## 🚀 About Me
-
-- 💻 I'm passionate about **AI**, **Machine Learning**, **Data Science**, and **Software Development**.
-- 🧠 I enjoy exploring new technologies and applying them to real-world problems.
-- 🔍 Currently learning and experimenting with **Python**, **TensorFlow**, **PyTorch**, **OpenCV**, and other AI/ML tools.
-- 🎓 Actively working on projects related to **Natural Language Processing (NLP)**, **Computer Vision**, and **Data Analytics**.
-
-## 📚 Current Focus
-
-- Developing expertise in **Machine Learning**, **Deep Learning** and **Reinforcement Learning**.
-- Building projects to enhance my understanding of the practical applications of **AI**.
-- Actively learning about the latest trends in **AI/ML** and **data-driven technologies**.
-<!---
-## 💼 Projects
-
-You can find all my public projects here on my GitHub profile. Some of the notable ones include:
-- **[Project 1 Name]** - Brief description of what it does.
-- **[Project 2 Name]** - Brief description of what it does.
-- **[Project 3 Name]** - Brief description of what it does.
-
-Feel free to check them out and contribute if you're interested! -->
+---
 ## 🪶 Open Source Badges
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
@@ -37,34 +78,62 @@ Feel free to check them out and contribute if you're interested! -->
  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
 </div>
 </details>
+##  Open Source Contributions
 
+🔹 **Social Winter of Code (SWOC) – Season 5**
+- Automated preprocessing pipelines reducing manual effort by 60%.
 
-## 📧 How to Reach Me
+🔹 **GirlScript Summer of Code (GSSOC) '24 Extended**
+- Ranked 641 among 60,000+ contributors.
+- Improved model performance through preprocessing optimization.
+
+---
+##  GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Khushi-Dua&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-Dua&layout=compact" />
+</p>
+
+---
+##  Currently Learning
+
+- Advanced SQL for Data Analytics
+- Data Structures & Algorithms
+- Real-time ML Pipelines
+- Model Deployment & MLOps Basics
+
+---
+ *Currently focusing on improving model deployment and production-ready ML workflows.*
+
+##  Connect With Me
+
 
 - Email: [Khushi Dua](mailto:khushidua110036@gmail.com)
 - LinkedIn: [Khushi Dua](https://www.linkedin.com/in/khushi-dua7/)
-- Instagram: [Khushi Dua](https://www.instagram.com/khushi_dua7/)
-
-## 🧑‍💻 Skills & Technologies
-
-- **Programming Languages**: Python, C, Java
-- **Web Development**: HTML, CSS, JavaScript, React
-- **Databases**: SQL
-- **Version Control**: Git, GitHub
-<!-- - **AI/ML Libraries**: TensorFlow, PyTorch, Scikit-Learn, Keras, OpenCV -->
-<!-- - **Data Science**: Pandas, NumPy, Matplotlib, Seaborn -->
+- LeetCode: [Khushi Dua](https://www.leetcode.com/u/Khushi-Dua/)
+- Codolio:[Khushi Dua](https://codolio.com/profile/KhushiDua)
 
 
+---
 
-## 🎯 Goals
+⭐ *Open to Data Science & Machine Learning Internship Opportunities.*
 
-- Contribute to open-source projects and collaborate with other developers.
-- Build and improve AI/ML models and applications that solve real-world problems.
-- Expand my knowledge and skills in the rapidly evolving tech landscape.
-
-## 📑 Education
+##  Education
 
 - **B.Tech in Computer Science & Engineering (AIML)**, Sharda University — 2023-Present
 - **Higher Secondary School (12th)** ,Vishal Bharti Senior Secondary School— [2022-2023]
+
+
+##  Goals
+
+- Build production-ready machine learning systems and deploy scalable AI solutions.
+- Contribute to impactful open-source AI and data science projects.
+- Apply machine learning to sustainability, healthcare, and intelligent analytics systems.
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Khushi-Dua&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 
