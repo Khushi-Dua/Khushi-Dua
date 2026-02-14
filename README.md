@@ -18,7 +18,7 @@
 ---
 ##  About Me
 
-I am a Data Scientist in-training specializing in **time-series forecasting, anomaly detection, and deep learning systems**. I build end-to-end machine learning pipelines focused on predictive accuracy, optimization, and real-world impact.
+I am a Data Scientist in training specializing in **time-series forecasting, anomaly detection, and deep learning systems**. I build end-to-end machine learning pipelines focused on predictive accuracy, optimization, and real-world impact.
 
 🔹 Experienced with large-scale datasets (12M+ records)  
 🔹 Focused on sustainability analytics & intelligent prediction systems  
