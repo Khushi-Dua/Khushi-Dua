@@ -88,12 +88,10 @@ I am a Data Scientist in-training specializing in **time-series forecasting, ano
 - Improved model performance through preprocessing optimization.
 
 ---
-##  GitHub Stats
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khushi-Dua&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-Dua&layout=compact" />
-</p>
+
+<img src="https://streak-stats.demolab.com?user=Khushi-Dua" />
 
 ---
 ##  Currently Learning
