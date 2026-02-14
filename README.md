@@ -97,6 +97,16 @@ I am a Data Scientist in-training specializing in **time-series forecasting, ano
 <img src="https://streak-stats.demolab.com?user=Khushi-Dua" />
 
 ---
+## 📜 Certifications
+<p align="center">
+  <img width="742" height="262" alt="image" src="https://github.com/user-attachments/assets/0273d45c-7960-4030-b5fc-4cc81382b6fb" />
+</p>
+
+- HackerRank SQL (Basic) — Verified
+- HackerRank SQL (Intermediate) — Verified
+- HackerRank SQL (Advanced) — Verified
+  
+----
 ##  Currently Learning
 
 - Advanced SQL for Data Analytics
